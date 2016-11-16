@@ -1,0 +1,14 @@
+Author: Sanele Mpangalala
+Date: 13 April 2016
+Name: Hu man Tree Encoding
+
+
+Description: 
+This program is designed to perform the Huffman encoding on the contents of an input file, and produce an encoded output..
+
+Instructions: Extract the tar file to program directory. Enter 'make' to compile.
+To run the program, enter one of the following commands:
+
+  ./huffencode <input file><output file>
+ 
+List of files: Driver.cpp, help.cpp, help.h, HuffmanTree.cpp, HuffmanTree.h, HuffmanNode.h, HuffmanNode.cpp
